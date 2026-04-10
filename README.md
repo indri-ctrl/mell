@@ -18,4 +18,3 @@ soal 2: operasi matriks
 Klik tombol di bawah ini untuk menjalankan kode langsung di browser:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/indri-ctrl/mell/blob/main/colab.ipynb)
-
